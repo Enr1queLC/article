@@ -144,14 +144,6 @@ This document was made RStudio, but other tools are available[^3]: Quarto proces
 
 [^3]: <https://quarto.org/docs/get-started/>
 
-## Motivation
-
-Markdown is very easy to learn.
-
-Markdown allows integrating your R, Python and more code for a *reproducible* result.
-
-Markdown allows to produce, without rewriting the text, a document in different formats: HTML, LaTeX or Word for example.
-
 # Code
 
 The main features of Markdown are summarized here.
